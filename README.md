@@ -1,6 +1,7 @@
 # blog-api
 
-This is a sample project. It follows simple, standard design methodology and Model-Routes-Controllers-Services Application structure.
+This is a sample project. It follows simple, standard design methodology and Model-Routes-Controllers-Services
+Application structure.
 <img width="265" alt="image" src="https://user-images.githubusercontent.com/86374489/225626250-1e91d973-94d7-4016-a0b5-ea6e58f1df34.png">
 
 
@@ -23,4 +24,27 @@ Pull the project blog-api in your local
    `go run main.go`
 
 
+Test Endpoints 
 
+1. Create Article
+   `POST   http://localhost:9000/articles`
+
+    `payload:       
+      {
+          "title": "Go powers Distributed Systems",
+          "content": "Distributed Systems development has accelerated since go is developed",
+          "author": "Go Enthusiast"
+      }
+    `
+
+    Response Body 
+    `
+         {
+             "data": {
+                 "id": "64123b24cc9d402cf4ace609"
+             },
+             "message": "success",
+             "status": 201
+         }
+
+    `
