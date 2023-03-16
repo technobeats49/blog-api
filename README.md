@@ -1,6 +1,9 @@
 # blog-api
 
-This is a sample project. It follows simple, standard design approach and architecture.
+This is a sample project. It follows simple, standard design methodology and Model-Routes-Controllers-Services Application structure.
+<img width="265" alt="image" src="https://user-images.githubusercontent.com/86374489/225626250-1e91d973-94d7-4016-a0b5-ea6e58f1df34.png">
+
+
 It is using mongoDB as Datastore. // Download MongoDB community in your local 
 Project uses standard packages and libraries for building REST APIs, testify for composing Unit tests.
 
