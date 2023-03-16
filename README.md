@@ -14,10 +14,10 @@ Pull the project blog-api in your local
 
 1. go to blog-api directory and run 
 
-`go mod tidy`           
+   `go mod tidy`           
 2. Run the main 
 
-`go run main.go`
+   `go run main.go`
 
 
 
