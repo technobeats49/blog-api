@@ -29,23 +29,21 @@ Test Endpoints
 1. Create Article
 
 
-   `POST   http://localhost:9000/articles`
+<img width="1279" alt="image" src="https://user-images.githubusercontent.com/86374489/225630433-1c2307f8-86a1-484d-8dea-f143848f535c.png">
 
-    `payload:       
-      {
-          "title": "Go powers Distributed Systems",
-          "content": "Distributed Systems development has accelerated since go is developed",
-          "author": "Go Enthusiast"
-      }`
 
-    Response Body
 
- 
-    `
-         {
-             "data": {
-                 "id": "64123b24cc9d402cf4ace609"
-             },
-             "message": "success",
-             "status": 201
-         }`
+2. Get Article
+
+
+<img width="1279" alt="image" src="https://user-images.githubusercontent.com/86374489/225630334-713c3f39-2cee-41eb-ab55-e9b53105e0cb.png">
+
+
+
+
+3. Get All Articles
+
+
+<img width="1279" alt="image" src="https://user-images.githubusercontent.com/86374489/225630252-37426649-a9b7-444b-b0a2-2a766b2aa268.png">
+
+
