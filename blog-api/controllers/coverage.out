@@ -1,0 +1,27 @@
+mode: set
+example.com/blog-api/controllers/blog.go:19.66,21.2 1 1
+example.com/blog-api/controllers/blog.go:23.102,30.29 3 0
+example.com/blog-api/controllers/blog.go:47.2,52.80 3 0
+example.com/blog-api/controllers/blog.go:69.2,77.16 6 0
+example.com/blog-api/controllers/blog.go:81.2,84.8 4 0
+example.com/blog-api/controllers/blog.go:30.29,37.17 6 0
+example.com/blog-api/controllers/blog.go:41.3,43.9 3 0
+example.com/blog-api/controllers/blog.go:37.17,39.4 1 0
+example.com/blog-api/controllers/blog.go:52.80,59.17 6 0
+example.com/blog-api/controllers/blog.go:63.3,65.9 3 0
+example.com/blog-api/controllers/blog.go:59.17,61.4 1 0
+example.com/blog-api/controllers/blog.go:77.16,79.3 1 0
+example.com/blog-api/controllers/blog.go:87.105,97.70 5 0
+example.com/blog-api/controllers/blog.go:113.2,123.16 7 0
+example.com/blog-api/controllers/blog.go:127.2,129.16 3 0
+example.com/blog-api/controllers/blog.go:97.70,104.17 6 0
+example.com/blog-api/controllers/blog.go:107.3,109.17 3 0
+example.com/blog-api/controllers/blog.go:104.17,106.4 1 0
+example.com/blog-api/controllers/blog.go:123.16,125.3 1 0
+example.com/blog-api/controllers/blog.go:132.106,137.93 4 1
+example.com/blog-api/controllers/blog.go:154.2,159.16 5 1
+example.com/blog-api/controllers/blog.go:163.2,165.38 3 1
+example.com/blog-api/controllers/blog.go:137.93,144.17 6 0
+example.com/blog-api/controllers/blog.go:148.3,150.9 3 0
+example.com/blog-api/controllers/blog.go:144.17,146.4 1 0
+example.com/blog-api/controllers/blog.go:159.16,161.3 1 0
