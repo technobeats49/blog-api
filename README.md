@@ -27,6 +27,8 @@ Pull the project blog-api in your local
 Test Endpoints 
 
 1. Create Article
+
+
    `POST   http://localhost:9000/articles`
 
     `payload:       
@@ -34,10 +36,11 @@ Test Endpoints
           "title": "Go powers Distributed Systems",
           "content": "Distributed Systems development has accelerated since go is developed",
           "author": "Go Enthusiast"
-      }
-    `
+      }`
 
-    Response Body 
+    Response Body
+
+ 
     `
          {
              "data": {
@@ -45,6 +48,4 @@ Test Endpoints
              },
              "message": "success",
              "status": 201
-         }
-
-    `
+         }`
